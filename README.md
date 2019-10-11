@@ -1,2 +1,6 @@
-# Practica1
-practica programacion avanzada
+# Practica 1
+
+En el programa he creado varias clases: Book, Client y  Library.
+Con el book y el client he puesto varios parametros como edad, nombre, autor ...
+y en el library he hecho las fucniones de buscar libro, añadir libro, eliminar libro...
+Ademas obligamos al cliente a que cuando utilice el programa oblligatoriamente utilice numeros en el menu
